@@ -17,7 +17,7 @@ If you are using Azure Cloud Shell instead of running PowerShell locally, you wi
 1. If you are running PowerShell locally, sign in.
 
    ```azurepowershell
-   Connect-AzAccount
+   Login-AzAccount
    ```
 
 1. If you have more than one subscription, get a list of your Azure subscriptions.
